@@ -16,7 +16,8 @@ class ChildTheme extends RockharborThemeBase {
 		'slug' => 'fullerton',
 		'short_name' => 'Fullerton',
 		'supports' => array(
-			'message'
+			'message',
+			'staff'
 		)
 	);
 }
